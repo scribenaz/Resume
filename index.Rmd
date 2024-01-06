@@ -65,9 +65,10 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-- <i class="fa fa-envelope"></i> sssmit23@asu.edu
+- <i class="fa fa-envelope"></i> scribenaz@gmail.com
 - <i class="fa fa-twitter"></i> scribenaz
 - <i class="fa fa-github"></i> github.com/scribenaz
+- <i class="fa fa-linkedin"></i> linkedin.com/in/shriversmith/
 - <i class="fa fa-phone"></i> (602) 552-5017
 
 
